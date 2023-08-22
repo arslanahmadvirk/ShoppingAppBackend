@@ -4,9 +4,9 @@
   "version": "0.1.0",
   "description": "A Strapi application",
   "scripts": {
-    "develop": "yarn develop",
-    "start": "yarn start",
-    "build": "yarn build",
+    "develop": "npx strapi develop",
+    "start": "npx strapi start",
+    "build": "npx strapi build",
     "strapi": "strapi"
   },
   "dependencies": {
